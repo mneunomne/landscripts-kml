@@ -21,10 +21,10 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>984a31</color>
+			<color>4c007aff</color>
 		</LineStyle>
 		<PolyStyle>
-			<color>4c007aff</color>
+			<color>00000000</color>
 		</PolyStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin00">
@@ -36,10 +36,10 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>984a31</color>
+			<color>4c007aff</color>
 		</LineStyle>
 		<PolyStyle>
-			<color>4c007aff</color>
+			<color>00000000</color>
 		</PolyStyle>
 	</Style>
 	<Folder>
